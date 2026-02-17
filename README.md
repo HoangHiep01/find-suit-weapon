@@ -1,1 +1,1 @@
-# Xác định tính chất phù hợp với vũ khí nào trong game Ark Knight Enfield
+# Xác định tinh chất phù hợp với vũ khí nào trong game Ark Knight Enfield
