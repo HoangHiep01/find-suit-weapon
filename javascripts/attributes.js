@@ -1,5 +1,34 @@
 export const attributes = {
-  main: ["nhanh nhẹn", "sức mạnh", "ý chí", "trí tuệ", "năng lực chính"],
-  sub: ["tấn công", "st nhiệt", "st điện", "st băng", "st tự nhiên", "công phép", "nhận tuyệt kỹ", "st thuật pháp", "st vật lý", "tỷ lệ bạo kích", "hp", "hiệu quả điều trị"],
-  skill: ["đột kích", "áp chế", "truy kích", "nghiền", "hiếu chiến", "kích nổ", "uyển chuyển", "hiệu lực", "cảm hứng", "nhiễm", "chữa lành", "rạn nứt", "tàn bạo", "chạng vạng"]
+  main: ["năng lực chính", "nhanh nhẹn", "sức mạnh", "trí tuệ", "ý chí"],
+  sub: [
+    "công phép",
+    "hiệu quả điều trị",
+    "hp",
+    "nhận tuyệt kỹ",
+    "st băng",
+    "st điện",
+    "st nhiệt",
+    "st thuật pháp",
+    "st tự nhiên",
+    "st vật lý",
+    "tấn công",
+    "tỷ lệ bạo kích",
+  ],
+
+  skill: [
+    "áp chế",
+    "cảm hứng",
+    "chạng vạng",
+    "chữa lành",
+    "đột kích",
+    "hiếu chiến",
+    "hiệu lực",
+    "kích nổ",
+    "nghiền",
+    "nhiễm",
+    "rạn nứt",
+    "tàn bạo",
+    "truy kích",
+    "uyển chuyển",
+  ],
 };
